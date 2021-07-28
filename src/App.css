@@ -1,0 +1,46 @@
+@import '~antd/dist/antd.css';
+
+
+ /* Login */
+
+.login-card {
+  margin-top: 50px;
+  text-align: -webkit-center;
+}
+
+.alert-error {
+  color: #ff4d4f;
+}
+
+.message {
+  margin: 10px;;
+}
+
+
+ /* Home */
+
+.site-layout-content {
+  min-height: 280px;
+  padding: 24px;
+  background: #fff;
+}
+
+.logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.right {
+  text-align: right;
+}
+
+.table {
+  margin-top: 10px;
+}
